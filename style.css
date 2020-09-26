@@ -1,0 +1,14 @@
+.search-header {
+    width: 350px;
+    height: 44px;
+    border-radius: 24px;
+}
+
+.header-top {
+    display: flex;
+    justify-content:space-around;
+}
+
+.sign-in {
+    display: flex;
+}
